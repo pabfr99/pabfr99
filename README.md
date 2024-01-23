@@ -54,7 +54,7 @@
       <img src="https://avatars.githubusercontent.com/u/29758034?s=280&v=4" alt="CoppeliaSim" width="60" height="60">
     </div>
     <div class="grid-item">
-      <h3><em>Development Environment</em></h3>
+      <h3><em>Development Environments</em></h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="60" height="60">
       <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="60" height="60">
     </div>
