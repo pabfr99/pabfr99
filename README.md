@@ -40,14 +40,12 @@
       <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" alt="Scikit-Learn" width="60" height="60">
     </div>
     <div class="grid-item">
-      <h3><em>Data Analysis and Manipulation</em></h3>
+      <h3><em>Data Analysis, Manipulation, Visualization</em></h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="60" height="60">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="60" height="60">
-    </div>
-    <div class="grid-item">
-      <h3><em>Data Visualization</em></h3>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="60" height="60"> 
       <img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib" width="60" height="60">
       <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="60" height="60">
+      <img src="https://raw.githubusercontent.com/isl-org/Open3D/main/docs/_static/open3d_logo_horizontal.png" alt="Open3D" width="120" height="60">
     </div>
     <div class="grid-item">
       <h3><em>Robotics Simulation and Frameworks</em></h3>
