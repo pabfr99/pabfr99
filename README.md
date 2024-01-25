@@ -68,8 +68,8 @@
 
 <h1 align="center">My Stats :fire:</h1>
 <div align="center">
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pabfr99&theme=dark&background=000000)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pabfr99)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabfr99&show_icons=true&theme=vision-friendly-dark)
 
