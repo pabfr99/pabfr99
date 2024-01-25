@@ -65,6 +65,7 @@
     </div>
   </div>
 </div
+
 <h1 align="center">My Stats :fire:</h1>
 <div align="center">
 
