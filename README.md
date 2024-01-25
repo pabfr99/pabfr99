@@ -64,7 +64,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60">
     </div>
   </div>
-</div
+</div>
 
 <h1 align="center">My Stats :fire:</h1>
 <div align="center">
