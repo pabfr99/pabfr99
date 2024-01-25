@@ -71,7 +71,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pabfr99)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabfr99&show_icons=true&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabfr99&show_icons=true)
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pabfr99&theme=vision-friendly-darke)
 
